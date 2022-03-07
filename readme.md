@@ -14,7 +14,7 @@ This project is a demo of a responsive landing page, using the Bootstrap 4 grid 
 ## Design
 
 >Here are some pictures about the page design:
-![Clima app](https://github.com/rcaondev/weather_app/blob/main/preview.png?raw=true)
+![Clima app](https://github.com/rcaondev/bootstrap4_landingpage/blob/main/imagens/fullscrean.png?raw=true)
 
 >![Clima app](https://github.com/rcaondev/weather_app/blob/main/preview.png?raw=true)
 
